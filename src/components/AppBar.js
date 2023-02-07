@@ -44,7 +44,7 @@ export default function NavAppBar() {
             </Button>
 
             <IconButton
-              href="https://github.com/sh-dv/hat.sh"
+              href="https://github.com/ASHUOPMODS/hat.sh"
               target="_blank"
               rel="noopener"
             >
