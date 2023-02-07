@@ -19,9 +19,9 @@ const LimitedContainer = () => {
   return (
     <div className={classes.body}>
       <NavAppBar />
-      <Hero />
+      {/* <Hero /> */}
       <LimitedPanels />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };

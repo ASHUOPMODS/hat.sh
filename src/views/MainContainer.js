@@ -22,10 +22,10 @@ const MainContainer = () => {
   return (
     <div className={classes.body}>
       <CheckMultipleTabs />
-      <NavAppBar />
-      <Hero />
+      {/* <NavAppBar /> */}
+      {/* <Hero /> */}
       <Panels />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
